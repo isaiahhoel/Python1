@@ -1,0 +1,12 @@
+1.C
+2.B
+3.C
+4.B
+5.A
+6.B
+7.C
+8.C
+9. from math import sqrt, log
+10. the dir function shows what strings are in the specified scope and 
+the help function provides a message that will aid you with whatever you need help on as long as it's in the python system.
+

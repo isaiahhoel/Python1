@@ -1,0 +1,23 @@
+# ---------------------------------------------------
+# Hannibal-LaGrange University
+# CSC 303 - Program Design
+# Fall 2021
+# Instructor: Mr. Hammontree 
+#
+# Student: Hoelscher, Isaiah
+# Student ID: A0000033934
+# Student Email: isaiah.hoelscher.18@student.hlg.edu
+#
+# Assignment: Chapter 11 Review Questions
+# Date: 11/08/2021
+# ---------------------------------------------------
+1. B
+2. A
+3. B
+4. B
+5. A
+6. A
+7. A
+8. A
+9. B
+10. B
