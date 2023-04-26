@@ -10,11 +10,11 @@
 
 #
 
-# Student: Thompson, River
+# Student: Hoelscher, Isaiah
 
-# Student ID: A0000033960
+# Student ID: A0000033934
 
-# Student Email: River.Thompson.10@student.hlg.edu
+# Student Email: isaiah.hoelscher.18@student.hlg.edu
 
 #
 
